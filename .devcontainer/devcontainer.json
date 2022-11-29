@@ -1,4 +1,0 @@
-{
-    "workspaceFolder": "quizhub",
-    "postCreateCommand": "git clone https://konfhub@dev.azure.com/konfhub/QuizHub/_git/quizhub-api quizhub"
-}
